@@ -1,9 +1,0 @@
-[
-{
-    "id":1,
-    "description":"Buy groceries and cook dinner",
-    "status":"pending",
-    "createdAt":"2026-05-06",
-    "updatedAt":"2026-05-06"
-}
-]
