@@ -1,5 +1,7 @@
 # Task Tracker CLI
 
+[Project Repository](https://github.com/chandu278/task-tracker-cli)
+
 A command-line based task management application built using Java.  
 This project allows users to add, update, delete, and manage tasks with file-based persistence using JSON format.
 
@@ -66,3 +68,4 @@ Sample JSON Storage
     "updatedAt":"2026-05-06"
   }
 ]
+
